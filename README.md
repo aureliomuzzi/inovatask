@@ -7,7 +7,7 @@
     Controle de Usuários, Controle de Tarefas e Visualização Estilo KanBan.
 </p>
 
-<b>Requisitos:</b>
+<h3>Requisitos:</h3>
 <p>
     <ul>
         <li>Framework Laravel 11 com PHP ^8.3</li>
@@ -27,4 +27,3 @@
         <li>Faça uma cópia do arquivo .env.example  para .env <li>
     </ol>
 </p>
-
